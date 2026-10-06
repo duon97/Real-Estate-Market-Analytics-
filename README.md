@@ -42,7 +42,7 @@ Key Questions to Explore
 -	Which locations and property types have the highest average listing values?
 -	How do property characteristics such as size, bedrooms, bathrooms, and building age influence pricing?
 - Do properties with premium amenities (parking, elevators, gyms, pools) command higher prices?
-- Which properties stay longest on the market, and what factors might explain it?
+- Which properties stay longest on the market ?
 - Are there locations that show high property values but lower market activity?
 - Which cities might present the most attractive opportunities for real estate investors?
 
@@ -112,7 +112,7 @@ This page breaks it down in a way that feels practical:
 ### EXPLORE - FIND AND COMPARE PROPERTIES EASILY .
 
 Browse individual properties in every dimension 
-<img width="1080" height="582" alt="image" src="https://github.com/user-attachments/assets/fad6f40a-536d-4b4c-9e78-37ce2a6888f5" />
+<img width="1205" height="617" alt="image" src="https://github.com/user-attachments/assets/a4b5ad10-6945-4c37-9193-3b3222f22537" />
 
 
 ## IV. Insight and Recommendation
