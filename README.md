@@ -56,10 +56,10 @@ Three personas were considered: the analyst needing market-wide patterns, the in
 ### STEP 2: Define POV
 
 North star metric
-Summary: Total Listing
-Market Liquidity: Average days on market
-Investor Opportunities: Perccentage of Average Capital Gain (%), Percentage of Gross Rental Yield (%)
-Property value drivers: Price per sqm2
+- Summary: Total Listing
+- Market Liquidity: Average days on market
+- Investor Opportunities: Perccentage of Average Capital Gain (%), Percentage of Gross Rental Yield (%)
+- Property value drivers: Price per sqm2
 
 ### STEP 3: Ideate
 
