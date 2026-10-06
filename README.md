@@ -6,7 +6,7 @@ Analyze property prices, market liquidity, and investment potential across Europ
 
 ### 1. Dataset
 
-The dataset represents a European real estate listing platform, containing **5,000 property listings** across 10 countries (France, Netherlands, Germany, Spain, Italy, Austria, Portugal, Poland, Czech Republic, Belgium) and their major cities.
+The dataset represents a European real estate listing platform, containing 5,000 property listings across 10 countries (France, Netherlands, Germany, Spain, Italy, Austria, Portugal, Poland, Czech Republic, Belgium) and their major cities.
 
 #### Real Estate Listings Table
 
@@ -51,7 +51,7 @@ Key Questions to Explore
 
 ### STEP 1: Empathize
 
-Three personas were considered: the **analyst** needing market-wide patterns, the **investor** needing yield and growth comparisons, and the **buyer/agent** needing to understand what drives a specific property's price and time-to-sell.
+Three personas were considered: the analyst needing market-wide patterns, the investor needing yield and growth comparisons, and the buyer/agent needing to understand what drives a specific property's price and time-to-sell.
 
 ### STEP 2: Define POV
 
@@ -63,7 +63,7 @@ Property value drivers: Price per sqm2
 
 ### STEP 3: Ideate
 
-Four report pages were planned: **Overview** (market pulse), **Price Drivers** (what influences value), **Market Liquidity** (what slows sales down), **Investor Opportunities** (where to invest) and **Property Deepdive** (Explorer - find and compare properties easily)
+Four report pages were planned: Overview (market pulse), Price Drivers (what influences value), Market Liquidity (what slows sales down), Investor Opportunities (where to invest) and Property Deepdive (Explorer - find and compare properties easily)
 
 ### STEP 4: Prototype and Review
 
