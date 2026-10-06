@@ -131,17 +131,22 @@ The majority of listings fall within small to mid-sized ranges (50–200 sqm), r
 ### 2. Market Liquidity
 
 **Market-wide slowdown:** All 10 countries average 162-183 days on market, nearly double the 90-day benchmark.
+
 **Country and property type matter little:** Fastest vs. slowest country differs by only ~21 days (Czech Republic 162, Netherlands 183). Property types differ by ~14 days (Villa 164, Retail 178).
+
 **Long-tail listings drive the problem:** ~44% of listings sit 180+ days; only ~28% sell within 90 days.
+
 **Price doesn't track speed:** Cheap markets (Czech Republic) and expensive ones (Netherlands) show no consistent relationship with days on market.
 
 ### 3. Investor Opportunities
 
-## Key Insights
-
 **Vienna and Berlin rank highest** on rental yield (5.2%, 5.0%) and on the custom Investor Score (60 each).
+
 **Higher price does not mean higher yield** in this dataset. Paris (€5.2K/sqm, 3.6%) and Amsterdam (€4.8K/sqm, 4.0%) are the most expensive but have among the lowest yields.
+
 **Brussels has the highest capital gain** (116.9%) with a 4.6% yield.
+
 **Residential has the highest capital gain** (~100%) with a 4.5% yield.
+
 **Mixed Use has the highest yield** (4.8%) but the lowest capital gain. It is also the smallest segment (~7% of listings).
 
