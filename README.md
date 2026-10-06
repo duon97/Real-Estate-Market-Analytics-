@@ -59,7 +59,7 @@ North star metric
 - Summary: Total Listing
 - Market Liquidity: Average days on market
 - Investor Opportunities: Perccentage of Average Capital Gain (%), Percentage of Gross Rental Yield (%)
-- Property value drivers: Price per sqm2
+- Property value drivers: Price per square meter
 
 ### STEP 3: Ideate
 
