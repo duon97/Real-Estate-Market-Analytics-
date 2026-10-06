@@ -80,7 +80,7 @@ Think of this page as your starting point. It gives you a quick pulse of the mar
 - What types of properties dominate the market?
 - Which Property Size Band have the highest Sale Listings and Rental Listings ?
 - How features like amenities and furnishing show up across listings ?
-<img width="1311" height="733" alt="image" src="https://github.com/user-attachments/assets/712f3bf2-5150-4a3a-bb07-75ae76460f5b" />
+<img width="1226" height="745" alt="image" src="https://github.com/user-attachments/assets/546aa9cc-4475-4214-9ada-2e79fbd7c9d4" />
 
 
 ### PRICE DRIVERS
@@ -93,26 +93,26 @@ This page breaks it down in a way that feels practical:
 - Does age influences price ?
 - Does floor level make a difference?
 - How do bedrooms and bathrooms combine to influence price?
-<img width="1437" height="715" alt="image" src="https://github.com/user-attachments/assets/f6ebabaf-0e7e-4803-9ba1-b85eb69c8f56" />
+<img width="1415" height="707" alt="image" src="https://github.com/user-attachments/assets/192a46fa-6f75-4b3d-b4f9-819824e0d088" />
 
 ### MARKET LIQUIDITY
 
 - How many listing each day on market band has ?
 - which countries sell property fastest, and what price level comes with that speed?
 - Which properties stay longest on the market, and what factors might explain it?
-<img width="1242" height="603" alt="image" src="https://github.com/user-attachments/assets/92e28e81-44b6-4767-ae6c-4bd55f9c2718" />
+<img width="1222" height="592" alt="image" src="https://github.com/user-attachments/assets/51fc4b7a-3478-4958-916b-e06c8e42b6ec" />
 
 ### INVESTOR OPPORTUNITIES
 - Which cities might present the most attractive opportunities for real estate investors?
 - Highest Avg Capital Gain % by Country ?
 - Which property type offers the best mix of rental income and price growth?
 - Which cities offer both high rental yield and strong capital growth?
-<img width="1217" height="612" alt="image" src="https://github.com/user-attachments/assets/6d248c5c-7ac0-4d64-802d-18bc466e5714" />
+<img width="1206" height="612" alt="image" src="https://github.com/user-attachments/assets/ac588967-5af3-42f5-818e-26e90a8abdef" />
 
 ### EXPLORE - FIND AND COMPARE PROPERTIES EASILY .
 
 Browse individual properties in every dimension 
-<img width="1205" height="617" alt="image" src="https://github.com/user-attachments/assets/a4b5ad10-6945-4c37-9193-3b3222f22537" />
+<img width="1035" height="585" alt="image" src="https://github.com/user-attachments/assets/a572de84-b365-4565-8b4b-f3c353dfc7de" />
 
 
 ## IV. Insight and Recommendation
