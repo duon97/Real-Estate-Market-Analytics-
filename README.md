@@ -1,4 +1,4 @@
-# European-Real-Estate-Market-Analytics
+# Real-Estate-Market-Analytics
 
 Analyze property prices, market liquidity, and investment potential across European countries and cities to support data-driven real estate decisions.
 
