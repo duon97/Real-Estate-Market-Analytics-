@@ -74,7 +74,6 @@ Chart types were chosen to match each question's data structure: bar charts for 
 ### OVERVIEW
 
 Overview - what does the Market Look Like?
-Think of this page as your starting point. It gives you a quick pulse of the market:
 - How listings have changed over time
 - Are there locations that show  high property values bur lower market activity ?
 - What types of properties dominate the market?
@@ -86,7 +85,6 @@ Think of this page as your starting point. It gives you a quick pulse of the mar
 ### PRICE DRIVERS
 
 Price Drivers - what Influences Property Value?
-This page breaks it down in a way that feels practical:
 - Do amenities like gyms or pools really increase value?
 - Do Properties size band influences price ?
 - Are bigger properties always more expensive per square meter?
@@ -96,13 +94,14 @@ This page breaks it down in a way that feels practical:
 <img width="1415" height="707" alt="image" src="https://github.com/user-attachments/assets/192a46fa-6f75-4b3d-b4f9-819824e0d088" />
 
 ### MARKET LIQUIDITY
-
-- How many listing each day on market band has ?
+How fast a property selling ?
+- How many listing each day-on-market band has ?
 - which countries sell property fastest, and what price level comes with that speed?
-- Which properties stay longest on the market, and what factors might explain it?
+- Which properties stay longest on the market ?
 <img width="1222" height="592" alt="image" src="https://github.com/user-attachments/assets/51fc4b7a-3478-4958-916b-e06c8e42b6ec" />
 
 ### INVESTOR OPPORTUNITIES
+Investor opptunities finder
 - Which cities might present the most attractive opportunities for real estate investors?
 - Highest Avg Capital Gain % by Country ?
 - Which property type offers the best mix of rental income and price growth?
@@ -111,7 +110,7 @@ This page breaks it down in a way that feels practical:
 
 ### EXPLORE - FIND AND COMPARE PROPERTIES EASILY .
 
-Browse individual properties in every dimension 
+Browse and comapre individual property in every dimension 
 <img width="1035" height="585" alt="image" src="https://github.com/user-attachments/assets/a572de84-b365-4565-8b4b-f3c353dfc7de" />
 
 
